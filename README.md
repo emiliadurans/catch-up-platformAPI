@@ -8,3 +8,6 @@
 * Emilia Mercedes Duran Santander
 * Ario Joel Chavez Uribe
 * Jeremy Alion Paucar Meneses
+
+##### Links:
+* https://learn.microsoft.com/es-es/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice
